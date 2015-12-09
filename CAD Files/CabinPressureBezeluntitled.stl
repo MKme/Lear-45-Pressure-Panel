@@ -1,0 +1,338 @@
+solid CabinPressureBezel
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex -0.5 36.0 0.0
+vertex 17.0 32.0 -2.11497486191092e-015
+vertex -0.5 0.0 0.0
+endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex 17.0 32.0 -2.11497486191092e-015
+vertex -0.5 36.0 0.0
+vertex 72.5 36.0 0.0
+endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex 17.0 32.0 -2.11497486191092e-015
+vertex 72.5 36.0 0.0
+vertex 55.0 32.0 -2.11497486191092e-015
+endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex 55.0 32.0 -2.11497486191092e-015
+vertex 72.5 36.0 0.0
+vertex 55.0 8.0 -2.11497486191092e-015
+endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex -0.5 0.0 0.0
+vertex 17.0 8.0 -2.11497486191092e-015
+vertex 72.5 0.0 0.0
+endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex 17.0 8.0 -2.11497486191092e-015
+vertex -0.5 0.0 0.0
+vertex 17.0 32.0 -2.11497486191092e-015
+endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex 72.5 0.0 0.0
+vertex 17.0 8.0 -2.11497486191092e-015
+vertex 55.0 8.0 -2.11497486191092e-015
+endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+outer loop
+vertex 72.5 0.0 0.0
+vertex 55.0 8.0 -2.11497486191092e-015
+vertex 72.5 36.0 0.0
+endloop
+endfacet
+facet normal -1.0 0.0 0.0
+outer loop
+vertex -0.5 36.0 5.0
+vertex -0.5 0.0 0.0
+vertex -0.5 0.0 5.0
+endloop
+endfacet
+facet normal -1.0 0.0 0.0
+outer loop
+vertex -0.5 0.0 0.0
+vertex -0.5 36.0 5.0
+vertex -0.5 36.0 0.0
+endloop
+endfacet
+facet normal 7.83324022929971e-017 1.0 0.0
+outer loop
+vertex -0.5 36.0 0.0
+vertex 12.0 36.0 2.0
+vertex 72.5 36.0 0.0
+endloop
+endfacet
+facet normal 7.83324022929971e-017 1.0 0.0
+outer loop
+vertex 12.0 36.0 2.0
+vertex -0.5 36.0 0.0
+vertex -0.5 36.0 5.0
+endloop
+endfacet
+facet normal 7.83324022929971e-017 1.0 0.0
+outer loop
+vertex 12.0 36.0 2.0
+vertex -0.5 36.0 5.0
+vertex 12.0 36.0 5.0
+endloop
+endfacet
+facet normal 7.83324022929971e-017 1.0 0.0
+outer loop
+vertex 72.5 36.0 0.0
+vertex 60.0 36.0 2.0
+vertex 72.5 36.0 5.0
+endloop
+endfacet
+facet normal 7.83324022929971e-017 1.0 0.0
+outer loop
+vertex 60.0 36.0 2.0
+vertex 72.5 36.0 0.0
+vertex 12.0 36.0 2.0
+endloop
+endfacet
+facet normal 7.83324022929971e-017 1.0 0.0
+outer loop
+vertex 72.5 36.0 5.0
+vertex 60.0 36.0 2.0
+vertex 60.0 36.0 5.0
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 72.5 36.0 0.0
+vertex 72.5 0.0 5.0
+vertex 72.5 0.0 0.0
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 72.5 0.0 5.0
+vertex 72.5 36.0 0.0
+vertex 72.5 36.0 5.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 72.5 0.0 0.0
+vertex 60.0 0.0 2.0
+vertex -0.5 0.0 0.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 60.0 0.0 2.0
+vertex 72.5 0.0 0.0
+vertex 72.5 0.0 5.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 60.0 0.0 2.0
+vertex 72.5 0.0 5.0
+vertex 60.0 0.0 5.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex -0.5 0.0 0.0
+vertex 12.0 -3.13329609171989e-016 2.0
+vertex -0.5 0.0 5.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 12.0 -3.13329609171989e-016 2.0
+vertex -0.5 0.0 0.0
+vertex 60.0 0.0 2.0
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex -0.5 0.0 5.0
+vertex 12.0 -3.13329609171989e-016 2.0
+vertex 12.0 -3.13329609171989e-016 5.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 60.0 0.0 2.0
+vertex 17.0 8.0 2.0
+vertex 12.0 -3.13329609171989e-016 2.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 17.0 8.0 2.0
+vertex 60.0 0.0 2.0
+vertex 55.0 8.0 2.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 55.0 8.0 2.0
+vertex 60.0 0.0 2.0
+vertex 55.0 32.0 2.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 12.0 36.0 2.0
+vertex 17.0 32.0 2.0
+vertex 60.0 36.0 2.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 17.0 32.0 2.0
+vertex 12.0 36.0 2.0
+vertex 12.0 -3.13329609171989e-016 2.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 17.0 32.0 2.0
+vertex 12.0 -3.13329609171989e-016 2.0
+vertex 17.0 8.0 2.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 60.0 36.0 2.0
+vertex 17.0 32.0 2.0
+vertex 55.0 32.0 2.0
+endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+outer loop
+vertex 60.0 36.0 2.0
+vertex 55.0 32.0 2.0
+vertex 60.0 0.0 2.0
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 12.0 -3.13329609171989e-016 5.0
+vertex -0.5 36.0 5.0
+vertex -0.5 0.0 5.0
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex -0.5 36.0 5.0
+vertex 12.0 -3.13329609171989e-016 5.0
+vertex 12.0 36.0 5.0
+endloop
+endfacet
+facet normal 1.0 7.83324022929971e-017 0.0
+outer loop
+vertex 12.0 36.0 2.0
+vertex 12.0 -3.13329609171989e-016 5.0
+vertex 12.0 -3.13329609171989e-016 2.0
+endloop
+endfacet
+facet normal 1.0 7.83324022929971e-017 0.0
+outer loop
+vertex 12.0 -3.13329609171989e-016 5.0
+vertex 12.0 36.0 2.0
+vertex 12.0 36.0 5.0
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 72.5 0.0 5.0
+vertex 60.0 36.0 5.0
+vertex 60.0 0.0 5.0
+endloop
+endfacet
+facet normal 0.0 0.0 1.0
+outer loop
+vertex 60.0 36.0 5.0
+vertex 72.5 0.0 5.0
+vertex 72.5 36.0 5.0
+endloop
+endfacet
+facet normal -1.0 -0.0 -0.0
+outer loop
+vertex 60.0 36.0 5.0
+vertex 60.0 0.0 2.0
+vertex 60.0 0.0 5.0
+endloop
+endfacet
+facet normal -1.0 -0.0 -0.0
+outer loop
+vertex 60.0 0.0 2.0
+vertex 60.0 36.0 5.0
+vertex 60.0 36.0 2.0
+endloop
+endfacet
+facet normal -1.0 0.0 -0.0
+outer loop
+vertex 55.0 32.0 2.0
+vertex 55.0 8.0 -2.11497486191092e-015
+vertex 55.0 8.0 2.0
+endloop
+endfacet
+facet normal -1.0 0.0 -0.0
+outer loop
+vertex 55.0 8.0 -2.11497486191092e-015
+vertex 55.0 32.0 2.0
+vertex 55.0 32.0 -2.11497486191092e-015
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 55.0 32.0 2.0
+vertex 17.0 32.0 -2.11497486191092e-015
+vertex 55.0 32.0 -2.11497486191092e-015
+endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+outer loop
+vertex 17.0 32.0 -2.11497486191092e-015
+vertex 55.0 32.0 2.0
+vertex 17.0 32.0 2.0
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 17.0 32.0 -2.11497486191092e-015
+vertex 17.0 8.0 2.0
+vertex 17.0 8.0 -2.11497486191092e-015
+endloop
+endfacet
+facet normal 1.0 0.0 0.0
+outer loop
+vertex 17.0 8.0 2.0
+vertex 17.0 32.0 -2.11497486191092e-015
+vertex 17.0 32.0 2.0
+endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+outer loop
+vertex 17.0 8.0 2.0
+vertex 55.0 8.0 -2.11497486191092e-015
+vertex 17.0 8.0 -2.11497486191092e-015
+endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+outer loop
+vertex 55.0 8.0 -2.11497486191092e-015
+vertex 17.0 8.0 2.0
+vertex 55.0 8.0 2.0
+endloop
+endfacet
+endsolid CabinPressureBezel
